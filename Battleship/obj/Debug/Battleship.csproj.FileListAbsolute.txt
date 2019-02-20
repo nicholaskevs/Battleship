@@ -1,7 +1,0 @@
-C:\Users\Nick\Desktop\Battleship\Battleship\bin\Debug\Battleship.exe.config
-C:\Users\Nick\Desktop\Battleship\Battleship\bin\Debug\Battleship.exe
-C:\Users\Nick\Desktop\Battleship\Battleship\bin\Debug\Battleship.pdb
-C:\Users\Nick\Desktop\Battleship\Battleship\obj\Debug\Battleship.csprojAssemblyReference.cache
-C:\Users\Nick\Desktop\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
-C:\Users\Nick\Desktop\Battleship\Battleship\obj\Debug\Battleship.exe
-C:\Users\Nick\Desktop\Battleship\Battleship\obj\Debug\Battleship.pdb
