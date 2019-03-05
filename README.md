@@ -2,7 +2,7 @@
 Simple console battleship board game
 
 ## Summary
-Simple 10 x 10 battleship board game running as console app with C#. Three ships are placed in the board manually by code (maybe randomly in the next itteration) for each player, so both players doesn't know where their ship is. Both player just select tile to attack the other.
+Simple 10 x 10 battleship board game running as console app with C#. Three ships are placed in the board manually by code (maybe randomly in the next itteration) for each player, so both players doesn't know where their ship is and they are faced with board with hidden ship. Both player just select tile to attack the other.
 
 ## How to play
 Print the help menu with 'h'
