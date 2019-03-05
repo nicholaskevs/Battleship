@@ -1,4 +1,4 @@
-# 2019-Battleship
+# Battleship
 Simple console battleship board game
 
 ## Summary
